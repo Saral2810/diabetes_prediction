@@ -1,4 +1,4 @@
-<img width="510" height="359" alt="Screenshot 2025-08-24 152430" src="https://github.com/user-attachments/assets/0128c8a5-2c82-4e20-9501-34dde32a1c56" /># diabetes_prediction
+# diabetes_prediction
 Diabetes Prediction using Machine Learning
 This project aims to predict the likelihood of a person having diabetes based on various health-related features. The project uses a balanced dataset and employs several machine learning models to achieve accurate predictions. This README provides a comprehensive overview of the project, including data analysis, modeling, and evaluation.
 
@@ -104,7 +104,7 @@ Run the Jupyter Notebook (Diabetes_Prediction.ipynb) to see the entire analysis 
 Use the trained models to make predictions on new data by following the data preparation steps outlined in the notebook.
 
 <img width="889" height="839" alt="Screenshot 2025-08-24 152421" src="https://github.com/user-attachments/assets/5ff8914c-09fd-42bf-85d5-fbcafd3e59b1" />
-
+<img width="510" height="359" alt="Screenshot 2025-08-24 152430" src="https://github.com/user-attachments/assets/0128c8a5-2c82-4e20-9501-34dde32a1c56" />
 <img width="1277" height="652" alt="Screenshot 2025-08-24 152409" src="https://github.com/user-attachments/assets/f6ab8b5a-2006-4281-8784-bc63730de938" />
 <img width="1171" height="876" alt="Screenshot 2025-08-24 152315" src="https://github.com/user-attachments/assets/38e50471-8575-481f-98fb-ec1f72c0f619" />
 
