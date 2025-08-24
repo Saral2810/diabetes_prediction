@@ -101,4 +101,5 @@ Install the required libraries, including pandas, numpy, scikit-learn, and matpl
 
 Run the Jupyter Notebook (Diabetes_Prediction.ipynb) to see the entire analysis and model training process.
 
-Use the trained models to make predictions on new data by following the data preparation steps outlined in the notebook.
+Use the trained models to make predictions on new data by following the data preparation steps outlined in the notebook.<img width="867" height="740" alt="Screenshot 2025-08-24 152225" src="https://github.com/user-attachments/assets/ac5b9ecc-8a17-40c1-b66a-b373819b4bca" />
+
