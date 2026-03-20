@@ -130,12 +130,16 @@ Early detection of diabetes can significantly reduce long-term health complicati
  ```
 jupyter notebook Diabetes_Prediction.ipynb
 ```
-##🔍 Follow the pipeline to:
+## 🔍 Workflow Execution
 
--Train models
+- 🧠 **Train Models**  
+  Build and fit machine learning models on prepared data  
 
--Evaluate performance
+- 📈 **Evaluate Performance**  
+  Assess models using metrics like ROC-AUC and error scores  
 
--Predict on new patient data
+- 🔮 **Make Predictions**  
+  Apply trained models to new patient data for diabetes risk prediction  
 
 ---
+
