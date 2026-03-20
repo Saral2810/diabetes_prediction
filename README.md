@@ -128,5 +128,14 @@ Early detection of diabetes can significantly reduce long-term health complicati
   ```bash
   pip install pandas numpy scikit-learn matplotlib
  ```
+jupyter notebook Diabetes_Prediction.ipynb
+```
+##🔍 Follow the pipeline to:
+
+-Train models
+
+-Evaluate performance
+
+-Predict on new patient data
 
 
