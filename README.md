@@ -138,4 +138,4 @@ jupyter notebook Diabetes_Prediction.ipynb
 
 -Predict on new patient data
 
-
+---
